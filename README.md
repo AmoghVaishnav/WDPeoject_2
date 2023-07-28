@@ -1,5 +1,5 @@
 
-<p>This is a fun web-developmeny project done using HTML and CSS</p>
+<p>This is a fun web-development project done using HTML and CSS</p>
 <li><a href=
 "https://in.linkedin.com/amogh-vaishnav0397a4200">LinkedIn</a>
 <li><a href=
